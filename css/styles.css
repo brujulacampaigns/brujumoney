@@ -472,6 +472,22 @@ progress {
   height: auto;
 }
 
+
+.registro{
+  text-align: center;
+  padding-top: 2rem;
+  font-family: "helvetica";
+  font-size: 3rem;
+  background-color: #ea7b0a;
+  padding-bottom: 2rem;
+}
+
+
+.botonregistro{
+  text-decoration: none;
+  text-align: center;
+}
+
 @media (min-width: 1200px) {
   .display-1 {
     font-size: 5rem;
@@ -10963,6 +10979,7 @@ p {
 
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
+
   position: fixed;
   right: 0;
   bottom: 0;
